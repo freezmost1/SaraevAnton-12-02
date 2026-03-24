@@ -6,3 +6,7 @@
 
 Выполните запрос на получение списка прав для пользователя sys_temp.
 ![Скриншот-2](https://github.com/freezmost1/SaraevAnton-12-02/blob/main/img/2.jpg)
+
+ER-диаграмму получившейся базы данных.
+![Скриншот-2](https://github.com/freezmost1/SaraevAnton-12-02/blob/main/img/343434.jpg)
+
